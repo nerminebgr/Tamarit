@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+
+.App1 {
+  text-align: center;
+  display: flex;
+  font-family: 'Manrope', sans-serif;
+  flex-direction: column;
+}
+
+
+:root {
+  --black: #131313;
+  --primary: rgba(131, 23, 23, 0.8);
+  --secondary: #B6AE67;
+
+}
